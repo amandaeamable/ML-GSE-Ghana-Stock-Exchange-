@@ -77,7 +77,7 @@ This system implements a **hybrid automated-manual sentiment analysis framework*
 ### 1. Initial Setup
 ```bash
 # Clone or navigate to project directory
-cd "Leveraging Machine Learning for Investor Decision-Making on the Ghana Stock Exchange"
+cd "ML-GSE-Ghana-Stock-Exchange"
 
 # Install dependencies
 pip install -r requirements.txt
